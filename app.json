@@ -4,7 +4,7 @@
     "slug": "FlavorDash",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=512&q=80",
     "scheme": "flavordash",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,

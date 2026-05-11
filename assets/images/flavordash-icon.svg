@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#FF6B35" stroke="#E55A2B" stroke-width="32"/>
+
+  <!-- Fork and spoon -->
+  <g transform="translate(256, 256)">
+    <!-- Fork -->
+    <rect x="-8" y="-80" width="16" height="120" fill="#FFFFFF" rx="4"/>
+    <rect x="-20" y="-80" width="8" height="40" fill="#FFFFFF" rx="2"/>
+    <rect x="12" y="-80" width="8" height="40" fill="#FFFFFF" rx="2"/>
+    <rect x="-4" y="-80" width="8" height="40" fill="#FFFFFF" rx="2"/>
+
+    <!-- Spoon -->
+    <ellipse cx="40" cy="-20" rx="20" ry="25" fill="#FFFFFF"/>
+    <rect x="32" y="-45" width="16" height="50" fill="#FFFFFF" rx="4"/>
+  </g>
+
+  <!-- Food elements -->
+  <circle cx="180" cy="200" r="15" fill="#FFD700"/>
+  <circle cx="220" cy="180" r="12" fill="#FF6347"/>
+  <circle cx="280" cy="200" r="18" fill="#32CD32"/>
+  <circle cx="320" cy="180" r="10" fill="#FF69B4"/>
+</svg>
