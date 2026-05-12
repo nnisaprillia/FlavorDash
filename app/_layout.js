@@ -11,21 +11,21 @@ export default function Layout() {
       }}
     >
       <Stack.Screen
-        name="index"
+        name="(tabs)"
         options={{
-          title: "FlavorDash - Katalog Makanan",
+          headerShown: false,
+        }}
+      />
+      <Stack.Screen
+        name="detail"
+        options={{
+          title: "Detail Menu",
         }}
       />
       <Stack.Screen
         name="login"
         options={{
           title: "Masuk ke FlavorDash",
-        }}
-      />
-      <Stack.Screen
-        name="detail"
-        options={{
-          title: "Detail Akun",
         }}
       />
       <Stack.Screen
